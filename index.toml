@@ -66,18 +66,13 @@ hash = "83cdaa833826cfdf0cfd0b41637899d534da478ce9545c704f1bb298336a69cb"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
-metafile = true
-
-[[files]]
 file = "mods/flan.pw.toml"
 hash = "c3b56911a8c3abf330be9a5a31c9c23159ca68124099465d8d094db97b898b17"
 metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "52194fa1c0798d04374e03352e0aeed2b6ce6c1d45d38c72bf19590802a0b3fb"
+hash = "295e7712f8da42578e9b0af4a33107f67dcd02f8d3bb5e7b62bb62d0787f6bce"
 metafile = true
 
 [[files]]
