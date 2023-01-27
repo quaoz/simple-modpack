@@ -1,0 +1,13 @@
+name = "xenia"
+author = "xenia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "41cbd61093ed338e3749863d20eed65ba639af89959be53f4fffe74eb5b3a6ff"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.60"

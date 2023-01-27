@@ -1,0 +1,13 @@
+name = "Better Tellraw"
+filename = "BetterTellraw-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/r9LhNk3j/versions/1.0.1/BetterTellraw-1.0.1.jar"
+hash-format = "sha1"
+hash = "375394c18728c8f13388fb73ce261a2b79296924"
+
+[update]
+[update.modrinth]
+mod-id = "r9LhNk3j"
+version = "BWbFeQ1e"
