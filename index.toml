@@ -76,8 +76,8 @@ hash = "c3b56911a8c3abf330be9a5a31c9c23159ca68124099465d8d094db97b898b17"
 metafile = true
 
 [[files]]
-file = "mods/floodgatefabric.pw.toml"
-hash = "5decc5861eb5686a9c3c0bdbdd0ebb98eeb7d46bb8428de0c4c37622aafdd937"
+file = "mods/floodgate.pw.toml"
+hash = "52194fa1c0798d04374e03352e0aeed2b6ce6c1d45d38c72bf19590802a0b3fb"
 metafile = true
 
 [[files]]
