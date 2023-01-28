@@ -71,16 +71,6 @@ hash = "c3b56911a8c3abf330be9a5a31c9c23159ca68124099465d8d094db97b898b17"
 metafile = true
 
 [[files]]
-file = "mods/floodgate.pw.toml"
-hash = "295e7712f8da42578e9b0af4a33107f67dcd02f8d3bb5e7b62bb62d0787f6bce"
-metafile = true
-
-[[files]]
-file = "mods/geyser.pw.toml"
-hash = "6c7a7de0753ff18c11862144f3b61069a071a4b1555bde1640fdc92ee5df83a9"
-metafile = true
-
-[[files]]
 file = "mods/image2map.pw.toml"
 hash = "0b59d24e17268a011904e90d56a5b6fd3d3079479c07a61b344ecfec1c06df95"
 metafile = true
