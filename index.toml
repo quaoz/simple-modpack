@@ -76,8 +76,8 @@ hash = "295e7712f8da42578e9b0af4a33107f67dcd02f8d3bb5e7b62bb62d0787f6bce"
 metafile = true
 
 [[files]]
-file = "mods/geyserfabric.pw.toml"
-hash = "fba1a048fd437589c2157679050f0f3a6a1e426724dbd8fe4ec12799b40b0ac6"
+file = "mods/geyser.pw.toml"
+hash = "6c7a7de0753ff18c11862144f3b61069a071a4b1555bde1640fdc92ee5df83a9"
 metafile = true
 
 [[files]]

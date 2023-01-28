@@ -1,0 +1,7 @@
+name = "Geyser"
+filename = "fabric-2.1.0-SNAPSHOT.jar"
+
+[download]
+url = "https://repo.opencollab.dev/artifactory/maven-snapshots/org/geysermc/geyser/fabric/2.1.0-SNAPSHOT/fabric-2.1.0-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "917d6b5d45dd3bf49bb69f827f30fbc9bcd7fe50"
