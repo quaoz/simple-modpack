@@ -16,13 +16,13 @@ hash = "b5b9e2a0bf7df208a39b7706a1746343be602dc2ff31fd438312f1ae096387c0"
 metafile = true
 
 [[files]]
-file = "mods/boat-fall.pw.toml"
-hash = "12a9ef7e12c4c09ee34a15420d39f34743082c776835c4d2667719d4eae33be4"
+file = "mods/carpet-extra.pw.toml"
+hash = "a084ad59e4b863b03da0406fe85d39441e7e7ba1b1407dab72b240ee8a16d8b6"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "a084ad59e4b863b03da0406fe85d39441e7e7ba1b1407dab72b240ee8a16d8b6"
+file = "mods/carpet-fixes.pw.toml"
+hash = "25eb272f5f04290914e0b4c7370cf0ee059ee11888c43b8fd2805aaafecfa39c"
 metafile = true
 
 [[files]]
@@ -108,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "10adb8c5a5aab921443515680dd58a1369e1209ec4966fde0759d64f777f7525"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
