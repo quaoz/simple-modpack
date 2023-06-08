@@ -26,6 +26,11 @@ hash = "ce6fd866e9b9430ce87edbaa532a987ff7e30902fc5d880db7c4089bf72a6d21"
 metafile = true
 
 [[files]]
+file = "mods/minitweaks.pw.toml"
+hash = "bfe4842ce75823202f92f1617ce4ebd3007656f4ca07c2608bdf0c46c6212654"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
