@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "3eeea72e4e4a499461725953942502762031fcf8386a54742db950fd81493dce"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "97b3b07582f18b6c01d38deccc1e44c90db4e44588940efe5e472ec202a1a33f"
+metafile = true
