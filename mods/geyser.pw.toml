@@ -2,6 +2,6 @@ name = "geyser"
 filename = "fabric"
 
 [download]
-url = "https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/fabric"
+url = "https://download.geysermc.org/v2/projects/geyser/versions/2.1.1/builds/168/downloads/fabric"
 hash-format = "sha1"
-hash = "70c85f044340fe46615a838ea13880d081382884"
+hash = "71a48fd02510b2e8eb2deea5d43a087018d69cf2"
