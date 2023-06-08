@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "322c39ce2c558cf8b728eadcb6aedf4f71ea2c1e231ec4306ad2968cafe3149b"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
