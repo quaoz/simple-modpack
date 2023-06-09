@@ -1,7 +1,0 @@
-name = "open-parties-and-claims"
-filename = "open-parties-and-claims-fabric-1.20-0.17.3.jar"
-
-[download]
-url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/ClQoaZFU/open-parties-and-claims-fabric-1.20-0.17.3.jar"
-hash-format = "sha1"
-hash = "b765d0e5babcd0441f0437e40e837b683f5ade47"

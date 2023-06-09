@@ -66,11 +66,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "a8525592f1253ad8a33959d662ce34d783fcd246ec50aacf07bf8078832c1318"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "a191178533cb0075a686ea3351c9a63c03e9b27ef8a125e14c94981f8bcb5b41"
 metafile = true
