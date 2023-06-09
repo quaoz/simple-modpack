@@ -1,13 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "322c39ce2c558cf8b728eadcb6aedf4f71ea2c1e231ec4306ad2968cafe3149b"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "8ca5c0ebb1cf58f630df7f73e2c042b2b36a11787294a326ddb80509c3a82a8f"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "a3ef0ef31a8279dfb6ff25e78083291a483109b624e90946d7d0de13d9ff35a3"
 metafile = true
 
 [[files]]
@@ -21,6 +36,11 @@ hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
 file = "mods/floodgate-fabric.pw.toml"
 hash = "0524d6977e1d43029949e0e042ae4a1539ec12e2da73c7b0f4c7208abf737e66"
 metafile = true
@@ -31,6 +51,11 @@ hash = "ce6fd866e9b9430ce87edbaa532a987ff7e30902fc5d880db7c4089bf72a6d21"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+metafile = true
+
+[[files]]
 file = "mods/minitweaks.pw.toml"
 hash = "bfe4842ce75823202f92f1617ce4ebd3007656f4ca07c2608bdf0c46c6212654"
 metafile = true
@@ -38,4 +63,19 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "a8525592f1253ad8a33959d662ce34d783fcd246ec50aacf07bf8078832c1318"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "a191178533cb0075a686ea3351c9a63c03e9b27ef8a125e14c94981f8bcb5b41"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
 metafile = true
