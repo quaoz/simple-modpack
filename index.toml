@@ -21,6 +21,11 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "4f5e4773a603f42541312279136af65d31ed5b59c828d8c523eeb5a52695a816"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "a3ef0ef31a8279dfb6ff25e78083291a483109b624e90946d7d0de13d9ff35a3"
 metafile = true
