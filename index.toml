@@ -6,13 +6,18 @@ hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
 metafile = true
 
 [[files]]
+file = "mods/carpet-auto-crafting-table.pw.toml"
+hash = "481dc3642a2018b74a6bc684c396550cf7991b5392971256636a1c164cb4cbcf"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "322c39ce2c558cf8b728eadcb6aedf4f71ea2c1e231ec4306ad2968cafe3149b"
 metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "8ca5c0ebb1cf58f630df7f73e2c042b2b36a11787294a326ddb80509c3a82a8f"
+hash = "d44b97d73c294e239d1f2fee97fc0956e4f926ea97b9f3cc82c2baf18d0e4b49"
 metafile = true
 
 [[files]]
@@ -22,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "4f5e4773a603f42541312279136af65d31ed5b59c828d8c523eeb5a52695a816"
+hash = "811d18282dc652b69306bd1bafc72aa80625bf02702362080477ac3151c58727"
 metafile = true
 
 [[files]]
@@ -37,7 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
+hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "255550f35e2c44ad59e016e0e36b9fcd9d81d170a981c52ebea8f10547f773e4"
 metafile = true
 
 [[files]]
@@ -56,8 +66,18 @@ hash = "ce6fd866e9b9430ce87edbaa532a987ff7e30902fc5d880db7c4089bf72a6d21"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
@@ -68,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "d43e7f1c3b7a251a0ca05bc095298a81710926dc8144463ac361008c77456323"
 metafile = true
 
 [[files]]
