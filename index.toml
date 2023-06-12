@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "322c39ce2c558cf8b728eadcb6aedf4f71ea2c1e231ec4306ad2968cafe3149b"
+hash = "46a1e26d033d04ff07008f23faa1263dc28e8f6a6471cc6377cf5c73e9571fa3"
 metafile = true
 
 [[files]]
@@ -57,12 +57,17 @@ metafile = true
 
 [[files]]
 file = "mods/floodgate-fabric.pw.toml"
-hash = "0524d6977e1d43029949e0e042ae4a1539ec12e2da73c7b0f4c7208abf737e66"
+hash = "74402dfdbd42e3680265834e0c00558872626a9e667d4ae7d25a66325fc7c75f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "68aac7738a251e9cbe0414426725f93f92069640ef18b56490b13c89b8f5beba"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "ce6fd866e9b9430ce87edbaa532a987ff7e30902fc5d880db7c4089bf72a6d21"
+hash = "c11af87297e40271e25dca2ac5953c34f34b04673313d1f7bb44df3d57ff9b52"
 metafile = true
 
 [[files]]
@@ -92,7 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "d43e7f1c3b7a251a0ca05bc095298a81710926dc8144463ac361008c77456323"
+hash = "07ab85673fd642f1270bd8ce16547104fd4c34c0f05d245d2735fb4ce5737edc"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "227cd9e2666a334515b78d69924fed2be8a80b75475f6e200abbfb1673302dea"
 metafile = true
 
 [[files]]
