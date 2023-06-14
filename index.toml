@@ -6,6 +6,11 @@ hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "5b089b32ba80ff2c4fcb1cf5ad04e54fe7dfb402d6e1c325f5c42e9b179cb1b0"
+metafile = true
+
+[[files]]
 file = "mods/carpet-auto-crafting-table.pw.toml"
 hash = "481dc3642a2018b74a6bc684c396550cf7991b5392971256636a1c164cb4cbcf"
 metafile = true
@@ -108,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "a191178533cb0075a686ea3351c9a63c03e9b27ef8a125e14c94981f8bcb5b41"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "3f62f308477bf21c3dec6644171aa1a53d9fd66696cea10ea3bddf92d9b29d2f"
 metafile = true
 
 [[files]]
