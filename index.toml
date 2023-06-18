@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "d44b97d73c294e239d1f2fee97fc0956e4f926ea97b9f3cc82c2baf18d0e4b49"
+hash = "eeb5b3036a6ccb5388b8e87016dc1fac7a85b7d05914570d3a19ddb15b2b1d84"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "811d18282dc652b69306bd1bafc72aa80625bf02702362080477ac3151c58727"
+hash = "f086ea0825c4194d30b357a571bd12718aaaf5dfc69d8dd023a28f798d6dbf83"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "55015c6c6b7175e5ac561a98cb7916b5d9575d65dd2382a77192c9ca83c904b1"
+hash = "0437f4f37aea781f7f1bf41c6235b22d19dc40259eab373f23ded6d6b25b1714"
 metafile = true
 
 [[files]]
@@ -111,8 +111,18 @@ hash = "227cd9e2666a334515b78d69924fed2be8a80b75475f6e200abbfb1673302dea"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
-hash = "a191178533cb0075a686ea3351c9a63c03e9b27ef8a125e14c94981f8bcb5b41"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "dda4f25ccc8058c77df1d5cfb8450864222d28715a46c16f8b34ec41c7bea5ad"
 metafile = true
 
 [[files]]
