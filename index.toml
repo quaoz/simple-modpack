@@ -41,16 +41,6 @@ hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
-metafile = true
-
-[[files]]
 file = "mods/fastback.pw.toml"
 hash = "255550f35e2c44ad59e016e0e36b9fcd9d81d170a981c52ebea8f10547f773e4"
 metafile = true
@@ -113,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "227cd9e2666a334515b78d69924fed2be8a80b75475f6e200abbfb1673302dea"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
 metafile = true
 
 [[files]]
