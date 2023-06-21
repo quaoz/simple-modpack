@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "46a1e26d033d04ff07008f23faa1263dc28e8f6a6471cc6377cf5c73e9571fa3"
+hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
 metafile = true
 
 [[files]]
@@ -51,8 +51,8 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
-file = "mods/floodgate-fabric.pw.toml"
-hash = "74402dfdbd42e3680265834e0c00558872626a9e667d4ae7d25a66325fc7c75f"
+file = "mods/floodgate.pw.toml"
+hash = "bb7fa889094562cb29ad45ecf870887c16adde5a29397f4eada24d7c85d1bd71"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "1ae9aa599876fb476c646793c8b97f82e7b9133cc361059a83cd8d08c17a9dad"
+hash = "bab57dacf491401632eab3b9c5874aa7affb9e936ca2e1c094dd3764b93e2ced"
 metafile = true
 
 [[files]]
@@ -116,28 +116,13 @@ hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
 metafile = true
 
 [[files]]
-file = "mods/raknetify.pw.toml"
-hash = "e01e749bc9136bf07c90a76c3eaff99c3be2469f37045b8920eb1632eb057720"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
-file = "mods/servux.pw.toml"
-hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
-metafile = true
-
-[[files]]
-file = "mods/syncmatica.pw.toml"
-hash = "bb6fedf68c85d332e6a584c8036ac986fc8f63db48d0a5648731ab40cd76059f"
 metafile = true
 
 [[files]]
