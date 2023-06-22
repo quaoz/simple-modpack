@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".aliases"
-hash = "d0777b23607bde7fa85c0aabe43e88e141fb44f85f3357e88026a14dff969ced"
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
 metafile = true
