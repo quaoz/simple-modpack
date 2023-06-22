@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".aliases"
+hash = "d0777b23607bde7fa85c0aabe43e88e141fb44f85f3357e88026a14dff969ced"
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
 metafile = true
@@ -21,6 +25,11 @@ hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "7e2c136b2b7a150f4e13ae5f74b057395ed3bf2848c5bdf08d612d60b211c338"
+metafile = true
+
+[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "eeb5b3036a6ccb5388b8e87016dc1fac7a85b7d05914570d3a19ddb15b2b1d84"
 metafile = true
@@ -36,8 +45,13 @@ hash = "f086ea0825c4194d30b357a571bd12718aaaf5dfc69d8dd023a28f798d6dbf83"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
+file = "mods/fabric-api.pw.toml"
+hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
@@ -53,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/floodgate.pw.toml"
 hash = "bb7fa889094562cb29ad45ecf870887c16adde5a29397f4eada24d7c85d1bd71"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -96,21 +105,6 @@ hash = "2312b6ed13ecf39bd696d870931eaafa4d76e512fdb18398e44ec200d10a9fe6"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "227cd9e2666a334515b78d69924fed2be8a80b75475f6e200abbfb1673302dea"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
@@ -133,9 +127,4 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
 metafile = true
