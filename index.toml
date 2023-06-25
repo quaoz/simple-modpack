@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/betterleads.pw.toml"
+hash = "3ecbc3e344d8da1ab6cda12e4bcd446ee4ee62525b729a240c381ee998722d1c"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
 metafile = true
@@ -42,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -122,10 +127,15 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "3f62f308477bf21c3dec6644171aa1a53d9fd66696cea10ea3bddf92d9b29d2f"
+hash = "0e0477f7fdea7980af1fc953252959ac7b5353b130d06238424221999df9eb19"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+metafile = true
+
+[[files]]
+file = "mods/wither-cage-fix.pw.toml"
+hash = "15df64fb9ad47931837f70730bd17d2e725dcc1e8d03ce04d2b6be1009a726f3"
 metafile = true

@@ -1,13 +1,13 @@
 name = "Universal Graves"
-filename = "graves-3.0.0-beta.2+1.20.jar"
+filename = "graves-3.0.0-beta.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yn9u3ypm/versions/xSCzeiCx/graves-3.0.0-beta.2%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/yn9u3ypm/versions/ptfpP28Q/graves-3.0.0-beta.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "22141b95bae988db1b02e64be565bfc928d4f2c2"
+hash = "d498a0d50c4060bddafd7d62fc51e0db907d800c"
 
 [update]
 [update.modrinth]
 mod-id = "yn9u3ypm"
-version = "xSCzeiCx"
+version = "ptfpP28Q"
