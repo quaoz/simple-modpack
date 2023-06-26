@@ -116,11 +116,6 @@ hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
-file = "mods/sneaky-server.pw.toml"
-hash = "85fc32734fdb028b803d03c95376799269a8be16380f6b99e09b93ab21d45540"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
