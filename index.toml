@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "eeb5b3036a6ccb5388b8e87016dc1fac7a85b7d05914570d3a19ddb15b2b1d84"
+hash = "5e245b54bfc0b04543d5723eb9dfaf78df29c4c9326cf3221ff920190d4dc3ab"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
@@ -116,6 +116,11 @@ hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
+file = "mods/sneaky-server.pw.toml"
+hash = "85fc32734fdb028b803d03c95376799269a8be16380f6b99e09b93ab21d45540"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "0e0477f7fdea7980af1fc953252959ac7b5353b130d06238424221999df9eb19"
+hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
 metafile = true
 
 [[files]]
