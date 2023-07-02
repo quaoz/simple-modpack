@@ -41,6 +41,11 @@ hash = "f086ea0825c4194d30b357a571bd12718aaaf5dfc69d8dd023a28f798d6dbf83"
 metafile = true
 
 [[files]]
+file = "mods/endless.pw.toml"
+hash = "2ae89741464bc2abae3dc58d04d3da6f68d2b03648a06f6b9cd05db26719b67d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
 metafile = true
@@ -143,4 +148,9 @@ metafile = true
 [[files]]
 file = "mods/wither-cage-fix.pw.toml"
 hash = "15df64fb9ad47931837f70730bd17d2e725dcc1e8d03ce04d2b6be1009a726f3"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
