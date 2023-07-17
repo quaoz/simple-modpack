@@ -1,0 +1,13 @@
+name = "Hurricane"
+filename = "hurricane-fabric-1.0.2+1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cKrS5WCg/versions/DcrrYwca/hurricane-fabric-1.0.2%2B1.20.jar"
+hash-format = "sha1"
+hash = "2d3bca78e771df2ea52fba2241b89cb35fe3c1e6"
+
+[update]
+[update.modrinth]
+mod-id = "cKrS5WCg"
+version = "DcrrYwca"
