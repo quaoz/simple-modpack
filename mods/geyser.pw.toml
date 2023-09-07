@@ -1,13 +1,13 @@
 name = "Geyser-Fabric"
-filename = "geyser-fabric-2.1.2-SNAPSHOT+build.237.jar"
+filename = "geyser-fabric-2.2.0-SNAPSHOT+build.268.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/lKhmO46L/geyser-fabric-2.1.2-SNAPSHOT%2Bbuild.237.jar"
+url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/PRvoucHK/geyser-fabric-2.2.0-SNAPSHOT%2Bbuild.268.jar"
 hash-format = "sha1"
-hash = "4908195d019c215c316f4de90d0b318e31aefe37"
+hash = "16aa4c701fbd09fcf518b79c217ace17681a52b8"
 
 [update]
 [update.modrinth]
 mod-id = "wKkoqHrH"
-version = "lKhmO46L"
+version = "PRvoucHK"
